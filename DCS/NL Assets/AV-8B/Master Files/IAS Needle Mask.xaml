@@ -1,0 +1,14 @@
+<!-- Created with Ai->XAML Export Plug-In Version 0.2 (PC/64) -->
+<!-- By Mike Swanson (http://blog.mikeswanson.com/)           -->
+
+<Canvas Width="72.750" Height="98.250"
+  xmlns="http://schemas.microsoft.com/client/2007"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+  <Canvas>
+
+  <!-- Layer 1/<Path> -->
+  <Path Fill="#ff050505" Data="F1 M 0.000,98.250 L 10.750,98.250 L 28.500,86.000 L 40.250,86.000 L 72.750,42.865 L 61.500,31.500 L 51.433,24.130 L 46.250,22.750 L 45.500,0.000 L 0.000,0.000 L 0.000,98.250 Z"/>
+
+  </Canvas>
+</Canvas>
